@@ -51,7 +51,7 @@ Har bir relizda odatda quyidagilar bo‘ladi:
 - **NadPOS-Restoran-Setup-{versiya}.exe** — Windows uchun o‘rnatuvchi (NSIS)
 - **RELEASE_NOTES** — o‘zgarishlar va yangilanishlar haqida qisqacha ma’lumot  
 
-Versiya formati: `X.Y.Z-N` (masalan, `3.1.6-1`).
+Versiya formati: `X.Y.Z` (masalan, `3.1.6`).
 
 ---
 
@@ -68,7 +68,7 @@ Versiya formati: `X.Y.Z-N` (masalan, `3.1.6-1`).
 
 ## 📄 Litsenziya va qo‘llab-quvvatlash
 
-Dastur **Ares Boston Tech LLC** tomonidan ishlab chiqilgan. Savollar yoki texnik yordam uchun litsenziya beruvchi yoki rasmiy kanallar orqali murojaat qiling.
+Dastur **Nadir Ibragimov** tomonidan ishlab chiqilgan. Savollar yoki texnik yordam uchun +998942332112 raqamiga murojaat qiling.
 
 ---
 
